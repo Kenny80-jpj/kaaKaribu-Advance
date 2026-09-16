@@ -1,0 +1,6 @@
+{
+  "name": "KaaKaribu - St John's Student Housing & Rentals",
+  "description": "Find rooms, hostels, and rental houses directly from verified landlords near St John's University without broker commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
